@@ -5,3 +5,7 @@ ip_sniffer/Cargo.lock
 # snake project
 snake_game/target
 snake_game/Cargo.lock
+
+# airdrop program
+solana/node_modules
+solana/package-lock.json
