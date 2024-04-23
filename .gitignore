@@ -9,3 +9,4 @@ snake_game/Cargo.lock
 # airdrop program
 solana/node_modules
 solana/package-lock.json
+solana/dist
